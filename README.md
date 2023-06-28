@@ -1,4 +1,4 @@
-# PROJECT
+# PROJECT 01
 # Athena - Voice-Controlled Virtual Assistant
 
 Athena is a voice-controlled virtual assistant built using Python. It allows users to interact with their computer using voice commands and perform various tasks such as opening applications, searching the web, getting weather information, playing songs on YouTube, and more.
