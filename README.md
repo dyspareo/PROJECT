@@ -31,15 +31,10 @@ Athena is a voice-controlled virtual assistant built using Python. It allows use
 pip install pyttsx3 wikipedia pywhatkit SpeechRecognition opencv-python wolframalpha pynput requests pyautogui
 #Replace YOUR_API_KEY in the code with your actual OpenWeatherMap API key. (Obtain the API key from OpenWeatherMap)
 
-#Run the athena.py file:
-python athena.py
-Contributing
+## Contributing
 Contributions are welcome! If you have any suggestions or ideas to improve Athena or want to add new features, feel free to open an issue or submit a pull request.
 
-License
-This project is licensed under the MIT License.
-
-Acknowledgments
+## Acknowledgments
 Athena was created by me and my team as a project for S6 Computer Science & Engineering Course in JYOTHI ENGINEERING COLLEGE, THRISSUR, KERALA, INDIA.
 
 Special thanks to Mariya, Malavika, Vishnudath  for their contributions to this project.
@@ -47,6 +42,6 @@ Special thanks to Mariya, Malavika, Vishnudath  for their contributions to this 
 
 
 
-##GUI
+## GUI
 
 ![Screenshot (43)](https://github.com/dyspareo/PROJECT/assets/119093989/05673484-aa36-4b10-a864-a2dfe69080e3)
