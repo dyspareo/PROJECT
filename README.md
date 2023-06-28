@@ -16,6 +16,12 @@ Athena is a voice-controlled virtual assistant built using Python. It allows use
 - Open Facebook or Stack Overflow
 - Express love and get information about the creator
 
+## Team Members
+1. Mariya Benny
+2. Malavika Baburaj
+3. Vishnudath P R
+4. Sanjo T S
+
 ## Requirements
 
 - Python 3.x
